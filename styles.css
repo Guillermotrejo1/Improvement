@@ -1376,6 +1376,7 @@ h5 {
   .footer__para {
     font-size: 20px;
     margin: 32px;
+    text-align: center;
   }
 }
 @media (max-width: 350px) {
